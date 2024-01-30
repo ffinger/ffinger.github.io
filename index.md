@@ -7,7 +7,7 @@ Epidemiology, Operational Research and Analysis of Infectious Disease Outbreaks 
 [Web of Science](https://www.webofscience.com/wos/author/record/J-6037-2019) --
 [GitHub](https://github.com/ffinger/)
 
-Flavio has joined Epicentre in 2019 where he supports MSF operations by providing epidemiological insights into Ebola, Measles, cholera, COVID-19 and other outbreaks and through operational research. He is passionate about reinforcing the links between classic field epidemiology and modern analytic and data-driven approaches and coordinates a group of epidemiologists based in Europe and the DRC. He leads a number of research projects, such as:
+Flavio joined Epicentre in 2019 where he supports MSF operations by providing epidemiological insights into Ebola, Measles, cholera, COVID-19 and other outbreaks and through operational research. He is passionate about reinforcing the links between classic field epidemiology and modern analytic and data-driven approaches and coordinates a group of epidemiologists based in Europe and the DRC. He leads a number of research projects, such as:
 - A multi-site observational study on the effectiveness of [Case-Area Targeted Interventions (CATI)](http://dx.doi.org/10.1136/bmjopen-2022-061206) to rapidly contain cholera outbreaks
 - A pilot study on the deployment of cholera rapid diagnostic tests in routine surveillance
 - A multi-country retrospective analysis of the impact of reactive Oral Cholera Vaccine (OCV) campaigns
