@@ -4,7 +4,7 @@ Epidemiology, Research and Analysis of Infectious Disease Outbreaks at [Epicentr
 
 [orcid](https://orcid.org/0000-0002-8613-5170) --
 [Google Scholar](https://scholar.google.com/citations?user=4ZeqtLFaH7kC) --
-[Publons](https://publons.com/researcher/1550804/flavio-finger/) --
+[Web of Science](https://www.webofscience.com/wos/author/record/J-6037-2019) --
 [GitHub](https://github.com/ffinger/)
 
 Flavio has joined Epicentre in 2019 where he works on providing insights into the dynamics of Ebola, Measles, Cholera, COVID-19 and other outbreaks. He coordinates a group of epidemiologists and analysts and leads a multi-site observational study on the effectiveness of [Case-Area Targeted Interventions (CATI)](http://dx.doi.org/10.1136/bmjopen-2022-061206) to rapidly contain cholera outbreaks, and a number of other operational research projects. He is the chairman of the [Global Task Force for Cholera Controls](https://www.gtfcc.org/) Epidemiology Working Group. Flavio is passionate about reinforcing the links between classic field epidemiology and modern analytic and data-driven approaches.
